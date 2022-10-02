@@ -1,6 +1,6 @@
-# Webpack Starter
+# AppTareas
 
-Este es el proyecto incial para crear aplicaciones usando webpack
+Esta es una app sencilla para gestionar una lista de tareas por hacer
 
 ### Notas:
 Recuerden reconstruir los modulos de Node
